@@ -19,9 +19,8 @@
   Screenshot of Project (Google Chrome): 
   ![Screenshot](./Screen.PNG?raw=true)
 
-  Repo: https://github.com/vetty88/Google-Books
-
-Video of app in action, see file: https://github.com/vetty88/Google-Books/blob/master/Video.mp4
+  Repo: https://github.com/transphat/GoogleBooks.git
+  Heoku App Deployment: https://trans-googlebooks.herokuapp.com/
 
 
 ## Installation
@@ -34,7 +33,7 @@ This is an example of how to list things you need to use the software and how to
 
 Installation-
   Clone the repo
-    git clone https://github.com/vetty88/Google-Books.git
+    git clone https://github.com/transphat/GoogleBooks.git
   Install NPM packages
     npm install
     npm inquirer
